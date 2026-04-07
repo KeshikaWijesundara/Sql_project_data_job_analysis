@@ -67,3 +67,33 @@ ORDER BY
     avg_salary DESC,
     demand_count DESC
 LIMIT 25
+
+/*
+Insights from the Data Analyst skills dataset:
+
+1. High-Demand Skills:
+   - Snowflake (241 jobs), Spark (187 jobs), Hadoop (140 jobs), Databricks (102 jobs)
+     are the most requested skills, showing strong demand for cloud and big data technologies.
+
+2. High-Paying Skills:
+   - Kafka (129,999), PyTorch (125,226), Perl (124,686), TensorFlow (120,647)
+     offer higher salaries despite lower demand, reflecting the premium for specialized skills.
+
+3. Balanced Skills:
+   - Airflow, Git, Scala, Linux, GCP have moderate-to-high demand and competitive salaries (~113k–116k),
+     making them valuable for career growth.
+   - Pandas and PySpark also show strong adoption with solid pay.
+
+4. Niche vs. General Tools:
+   - Tools like Phoenix, Splunk, and Confluence have lower demand but may be strategically useful in
+     specific contexts.
+
+5. Salary-Demand Tradeoff:
+   - Some highly demanded skills (Snowflake, Spark) offer slightly lower salaries (~111k–113k),
+     while specialized ML tools (PyTorch, TensorFlow) pay more but are less common.
+   - Acquiring rare but specialized skills can be financially advantageous.
+
+Takeaway:
+- For aspiring data analysts, a combination of high-demand tools and specialized ML skills
+  maximizes employability and salary potential.
+*/
