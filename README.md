@@ -196,27 +196,54 @@ ORDER BY
 LIMIT 25;
 ```
 
-| Skill ID | Skills     | Demand Count | Average Salary ($) |
-|----------|------------|--------------|-------------------:|
-| 8        | go         | 27           |            115,320 |
-| 234      | confluence | 11           |            114,210 |
-| 97       | hadoop     | 22           |            113,193 |
-| 80       | snowflake  | 37           |            112,948 |
-| 74       | azure      | 34           |            111,225 |
-| 77       | bigquery   | 13           |            109,654 |
-| 76       | aws        | 32           |            108,317 |
-| 4        | java       | 17           |            106,906 |
-| 194      | ssis       | 12           |            106,683 |
-| 233      | jira       | 20           |            104,918 |
+| Skill ID | Skills      | Demand Count | Avg Salary ($) |
+|----------|-------------|--------------|----------------|
+| 98       | Kafka       | 40           | 129,999        |
+| 101      | PyTorch     | 20           | 125,226        |
+| 31       | Perl        | 20           | 124,686        |
+| 99       | TensorFlow  | 24           | 120,647        |
+| 63       | Cassandra   | 11           | 118,407        |
+| 219      | Atlassian   | 15           | 117,966        |
+| 96       | Airflow     | 71           | 116,387        |
+| 3        | Scala       | 59           | 115,480        |
+| 169      | Linux       | 58           | 114,883        |
+| 234      | Confluence  | 62           | 114,153        |
 
 *Table of the most optimal skills for data analyst sorted by salary*
 
 Here's a breakdown of the most optimal skills for Data Analysts in 2023: 
-- **High-Demand Programming Languages:** Python and R stand out for their high demand, with demand counts of 236 and 148 respectively. Despite their high demand, their average salaries are around $101,397 for Python and $100,499 for R, indicating that proficiency in these languages is highly valued but also widely available.
-- **Cloud Tools and Technologies:** Skills in specialized technologies such as Snowflake, Azure, AWS, and BigQuery show significant demand with relatively high average salaries, pointing towards the growing importance of cloud platforms and big data technologies in data analysis.
-- **Business Intelligence and Visualization Tools:** Tableau and Looker, with demand counts of 230 and 49 respectively, and average salaries around $99,288 and $103,795, highlight the critical role of data visualization and business intelligence in deriving actionable insights from data.
-- **Database Technologies:** The demand for skills in traditional and NoSQL databases (Oracle, SQL Server, NoSQL) with average salaries ranging from $97,786 to $104,534, reflects the enduring need for data storage, retrieval, and management expertise.
+- **High-Paying Specialized Skills:** Technologies like Kafka, PyTorch, TensorFlow, and Perl offer the highest average salaries, showing that niche expertise in machine learning, distributed systems, and advanced programming can significantly boost earning potential.
+
+- **Balanced Skills (High Demand + Good Salary):** Skills such as Airflow, Scala, Linux, and Confluence provide a strong balance between demand and salary, making them valuable for steady career growth.
+
+- **Big Data & Cloud Ecosystem:** Tools like Spark, Databricks, Snowflake, and GCP show strong demand along with competitive salaries, highlighting the importance of working with large-scale data and cloud-based platforms.
+
+- **Machine Learning & Advanced Analytics:** Skills like PyTorch and TensorFlow reflect the growing role of machine learning in data analytics, where analysts are expected to contribute to predictive modeling and advanced insights.
+
+- **Engineering & Workflow Tools:** Technologies such as Git, Airflow, and Linux indicate that modern data analysts benefit from knowledge of data pipelines, automation, and system operations, bridging the gap between analytics and data engineering.
 
 # What I learned
+Through this project, I was able to strengthen both my technical and analytical skills in a practical way.
+
+- **Complex Query Writing:** I gained hands-on experience writing more advanced SQL queries, especially using joins and WITH clauses to break down problems and organize my logic more clearly.
+
+- **Data Aggregation:** I became more comfortable using GROUP BY along with functions like COUNT() and AVG() to summarize data and extract meaningful patterns.
+
+- **Analytical Thinking:** This project helped me think more like a data analyst—starting with a question and translating it into structured queries to uncover useful insights.
+
+Overall, this experience improved my ability to work with real datasets and approach problems in a more structured and analytical way.
+
 # Conclusion 
+### Insights
+From my analysis, a few key takeaways stood out:
+
+1. **Top-Paying Data Analyst Jobs**: I noticed that remote data analyst roles can offer a very wide salary range, with some positions reaching extremely high salaries. This shows how much earning potential exists in the field depending on role and expertise.
+
+2. **Skills for Top-Paying Jobs**: From the top-paying roles, it became clear to me that strong SQL skills are almost always required. It seems to be a core skill that plays a big role in reaching higher-paying positions.
+
+3. **Most In-Demand Skills**: SQL consistently appeared as the most in-demand skill across job postings. This reinforced my understanding that having a solid foundation in SQL is essential for anyone entering this field.
+
+4. **Skills with Higher Salaries**: I also observed that more specialized skills, especially in areas like machine learning and big data technologies, tend to be associated with higher salaries. This suggests that going beyond basic tools can really increase earning potential.
+
+5. **Optimal Skills for Job Market Value**: Combining both demand and salary insights, I realized that the most valuable skills are those that balance both. While SQL remains a must-have, adding skills in cloud platforms, big data, or machine learning can make a strong difference in career growth.
 
