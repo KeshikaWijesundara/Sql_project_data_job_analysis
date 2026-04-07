@@ -1,7 +1,6 @@
 # Introduction
 📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
 
-🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
 # Background
 This project was inspired by my curiosity to explore the data analyst job market and uncover which skills and roles offer the best opportunities. The goal was to make it easier for aspiring analysts to identify high-paying positions and the skills that can maximize their career growth.  
