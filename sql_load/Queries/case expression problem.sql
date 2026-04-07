@@ -1,0 +1,13 @@
+-- Practice Problem I
+-- Question:
+-- I want to categorize the salaries from each job posting. To see if it fits in my desired salary range.
+-- • put salary into different buckets
+-- • Define what's a high, standard, or low salary with our own conditions
+--   - High: 90k to 100k
+--   - Standard: 60k to 89,999
+--   - Low: below 60k
+-- Why? It is easy to determine which job postings are worth looking at based on salary.
+-- Bucketing is a Common practice in data analysis when viewing categories.
+-- I only want to 100k at data analyst roles
+-- Order from highest to lowest
+
